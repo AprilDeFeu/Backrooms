@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modular pipes
+* source:	https://sketchfab.com/3d-models/modular-pipes-bceaf335f6ad450f8974a468510349ce
+* author:	Blank2574 (https://sketchfab.com/Blank2574)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modular pipes" (https://sketchfab.com/3d-models/modular-pipes-bceaf335f6ad450f8974a468510349ce) by Blank2574 (https://sketchfab.com/Blank2574) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
