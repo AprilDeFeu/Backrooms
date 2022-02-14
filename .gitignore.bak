@@ -16,9 +16,6 @@
 *.dylib
 *.dll
 
-# Uasset files
-*.uasset
-
 # Fortran module files
 *.mod
 
