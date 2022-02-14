@@ -1,0 +1,1429 @@
+﻿Log file open, 02/14/22 00:47:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Backrooms
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270200
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.14-05.48.00:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:259][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.14-05.48.00:265][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.14-05.48.00:266][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.14-05.48.00:266][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.14-05.48.00:266][  0]LogHAL: Display: Platform has ~ 8 GB [8316088320 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.14-05.48.00:266][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.14-05.48.00:266][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.14-05.48.00:267][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Engine.ini]
+[2022.02.14-05.48.00:267][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Config/Windows/Editor.ini]
+[2022.02.14-05.48.00:267][  0]LogInit: Computer: LAPTOP-7OS13TSD
+[2022.02.14-05.48.00:267][  0]LogInit: User: april
+[2022.02.14-05.48.00:267][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.14-05.48.00:267][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.14-05.48.00:267][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2022.02.14-05.48.00:267][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.14-05.48.00:267][  0]LogMemory: Process Physical Memory: 144.93 MB used, 144.94 MB peak
+[2022.02.14-05.48.00:267][  0]LogMemory: Process Virtual Memory: 127.83 MB used, 127.83 MB peak
+[2022.02.14-05.48.00:267][  0]LogMemory: Physical Memory: 6001.12 MB used,  1929.72 MB free, 7930.84 MB total
+[2022.02.14-05.48.00:267][  0]LogMemory: Virtual Memory: 134214728.00 MB used,  3000.39 MB free, 134217728.00 MB total
+[2022.02.14-05.48.00:271][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.14-05.48.00:301][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.14-05.48.00:302][  0]LogInit: Using OS detected language (en-US).
+[2022.02.14-05.48.00:302][  0]LogInit: Using OS detected locale (en-CA).
+[2022.02.14-05.48.00:304][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.14-05.48.00:491][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.14-05.48.00:500][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.14-05.48.00:513][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.14-05.48.00:513][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.14-05.48.00:598][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.14-05.48.00:610][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.14-05.48.00:610][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.14-05.48.00:610][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.14-05.48.00:610][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.14-05.48.00:702][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (Feature Level 11_0)
+[2022.02.14-05.48.00:702][  0]LogD3D11RHI:       3991/0/3965 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.14-05.48.00:732][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.02.14-05.48.00:732][  0]LogD3D11RHI:       128/0/3965 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:       0/0/3965 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     DeviceId    : 25a5
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     SubSysId    : 13fc1043
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     DedicatedVideoMemory : 4184866816 bytes
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     SharedSystemMemory : 4158044160 bytes
+[2022.02.14-05.48.00:734][  0]LogD3D11RHI:     AdapterLuid : 0 56204
+[2022.02.14-05.48.00:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.14-05.48.00:741][  0]LogD3D11RHI:     GPU DeviceId: 0x25a5 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.14-05.48.00:741][  0]LogWindows: EnumDisplayDevices:
+[2022.02.14-05.48.00:741][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.02.14-05.48.00:741][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.02.14-05.48.00:741][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.02.14-05.48.00:741][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.02.14-05.48.00:741][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.14-05.48.00:742][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.14-05.48.00:742][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.14-05.48.00:742][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0)
+[2022.02.14-05.48.00:742][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:   Driver Version: 511.65 (internal:30.0.15.1165, unified:511.65)
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:      Driver Date: 1-28-2022
+[2022.02.14-05.48.00:742][  0]LogRHI: Texture pool is 2793 MB (70% of 3991 MB)
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     DeviceId    : 25a5
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     SubSysId    : 13fc1043
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     DedicatedVideoMemory : 4184866816 bytes
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     SharedSystemMemory : 4158044160 bytes
+[2022.02.14-05.48.00:742][  0]LogD3D11RHI:     AdapterLuid : 0 56204
+[2022.02.14-05.48.00:791][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.14-05.48.00:791][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.14-05.48.00:791][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.14-05.48.00:830][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.02.14-05.48.00:850][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.14-05.48.01:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.14-05.48.01:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.14-05.48.01:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.14-05.48.01:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.14-05.48.01:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.14-05.48.01:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.14-05.48.01:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.14-05.48.01:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.14-05.48.01:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.14-05.48.01:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.14-05.48.01:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.14-05.48.01:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.14-05.48.01:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.14-05.48.01:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.14-05.48.01:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.14-05.48.01:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.14-05.48.01:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.14-05.48.01:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.14-05.48.01:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.14-05.48.01:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.14-05.48.01:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.14-05.48.01:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.14-05.48.01:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.14-05.48.01:320][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.14-05.48.01:326][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.14-05.48.01:355][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.14-05.48.01:386][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.14-05.48.01:386][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Intermediate/Shaders/WorkingDirectory/2740/).
+[2022.02.14-05.48.01:386][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/april/AppData/Local/Temp/UnrealShaderWorkingDir/B65ACA7E41BBD614D4635AB988D608B9/'.
+[2022.02.14-05.48.01:386][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.14-05.48.01:386][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.14-05.48.01:386][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.14-05.48.02:379][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.14-05.48.02:532][  0]LogDerivedDataCache: Loaded boot cache 0.15s 94MB C:/Users/april/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.14-05.48.02:532][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/april/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.14-05.48.02:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.14-05.48.02:532][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.14-05.48.02:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.14-05.48.02:532][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.14-05.48.02:552][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.14-05.48.02:552][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.14-05.48.02:552][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.14-05.48.02:564][  0]LogDerivedDataCache: Speed tests for C:/Users/april/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.14-05.48.02:564][  0]LogDerivedDataCache: Display: Performance to C:/Users/april/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=270.90MBs, RandomWriteSpeed=121.65MBs. Assigned SpeedClass 'Local'
+[2022.02.14-05.48.02:568][  0]LogDerivedDataCache: Using Local data cache path C:/Users/april/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.14-05.48.02:568][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.14-05.48.02:568][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.14-05.48.02:622][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.14-05.48.02:623][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.14-05.48.02:652][  0]LogAssetRegistry: FAssetRegistry took 0.0057 seconds to start up
+[2022.02.14-05.48.02:941][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.14-05.48.02:941][  0]LogInit: Active device profile: [0000025607887C00][000002560198A480 49] Windows
+[2022.02.14-05.48.02:941][  0]LogInit: Profiles: [0000025607887C00][000002560198A480 49] Windows, [0000025608C4C500][0000025607282600 49] WindowsNoEditor, [0000025607884500][000002567EC34780 49] WindowsServer, [0000025608C4F500][000002567EC38900 49] WindowsClient, [0000025607887300][000002560033EA40 49] IOS, [0000025608C4CF00][000002567EC3CB80 49] iPadAir, [0000025607884E00][000002567EC40CC0 49] iPadAir2, [0000025608C08400][0000025600254F80 49] IPadPro, [0000025608C08500][0000025600250FC0 49] iPadAir3, [0000025607886D00][0000025600259140 49] iPadAir4, [0000025608C0B800][000002560025D2C0 49] iPadMini2, [0000025607885300][0000025600261440 49] iPadMini3, [0000025608C09500][00000256002655C0 49] iPadMini4, [0000025607886500][0000025600269740 49] iPadMini5, [0000025608C03C00][000002560030FA00 49] iPhone6, [0000025608C03D00][000002560030BA40 49] iPodTouch6, [0000025608C0B200][0000025600316180 49] iPhone7, [0000025608C0B100][00000256003121C0 49] iPodTouch7, [0000025608C00A00][000002560031A340 49] iPhone5S, [0000025608C08A00][000002560031E4C0 49] iPhone6Plus, [0000025608C02F00][0000025600322640 49] iPhone6S, [0000025608C0BB00][00000256003267C0 49] iPhone6SPlus, [0000025608C01200][000002560032A940 49] iPhone7Plus, [0000025608C08100][000002560032EAC0 49] iPhoneSE, [0000025608C02700][000002560024CC00 49] iPhone8, [0000025608C09900][00000256002A6D40 49] iPhone8Plus, [0000025608C01A00][00000256002AAE80 49] iPhoneX, [0000025608C0BC00][00000256002AEFC0 49] iPhoneXS, [0000025608C03F00][00000256002B7140 49] iPhoneXSMax, [0000025608C0AE00][00000256002BB2C0 49] iPhoneXR, [0000025608C01D00][00000256002BF440 49] iPhone11, [0000025608C0AD00][00000256002C35C0 49] iPhone11Pro, [0000025608C03B00][00000256002C7740 49] iPhone11ProMax, [0000025608C0B000][00000256002CB8C0 49] iPhoneSE2, [0000025608C02400][00000256002CFA40 49] iPhone12Mini, [0000025608C09B00][00000256002D3BC0 49] iPhone12, [0000025608C01C00][00000256002D61C0 49] iPhone12Pro, [0000025608C0A800][00000256071CE340 49] iPhone12ProMax, [0000025608C01500][00000256071D24C0 49] iPadPro105, [0000025608C0B300][00000256071D6640 49] iPadPro129, [0000025608C01800][00000256071DA7C0 49] iPadPro97, [0000025608C09400][00000256071DE940 49] iPadPro2_129, [0000025608C01E00][00000256071E2AC0 49] iPad5, [0000025608C0B400][00000256071E6C40 49] iPad6, [0000025608C02100][00000256002B2D80 49] iPad7, [0000025608C0A600][00000256071EAEC0 49] iPad8, [0000025608C03900][00000256071EF000 49] iPadPro11, [0000025608C0BF00][00000256071F3140 49] iPadPro2_11, [0000025608C03500][00000256071FB2C0 49] iPadPro3_129, [0000025608C0A500][00000256071FF440 49] iPadPro4_129, [0000025608C02800][00000256072035C0 49] AppleTV, [0000025608C0BE00][0000025607207740 49] AppleTV4K, [0000025608C03A00][0000025604E898C0 49] TVOS, [0000025608C09C00][0000025604E8DA40 49] Mac, [0000025608C02300][0000025604E91BC0 49] MacClient, [0000025608C0AB00][0000025604E941C0 49] MacNoEditor, [0000025608C02D00][0000025604E98340 49] MacServer, [0000025608C08D00][0000025604E9C4C0 49] Linux, [0000025608C00D00][0000025604EA0640 49] LinuxAArch64, [0000025608C09E00][0000025604EA47C0 49] LinuxNoEditor, [0000025608C01000][0000025604EA8940 49] LinuxAArch64NoEditor, [0000025608C0A000][0000025604EACAC0 49] LinuxClient, [0000025608C01600][0000025604EB0C40 49] LinuxAArch64Client, [0000025608C08800][0000025604EB4DC0 49] LinuxServer, [0000025608C03300][0000025604EB8F40 49] LinuxAArch64Server, [0000025608C08700][00000256071F7080 49] Android, [0000025608C4EC00][0000025604EBD1C0 49] Android_Low, [00000256078C8100][0000025604EC1300 49] Android_Mid, [0000025608C4EE00][0000025604EC9480 49] Android_High, [00000256078CA900][0000025604ECD600 49] Android_Default, [0000025608C4EF00][0000025604ED1780 49] Android_Adreno4xx, [00000256078C8900][0000025604ED5900 49] Android_Adreno5xx_Low, [0000025608C4E000][0000025607399A80 49] Android_Adreno5xx, [00000256078CA400][000002560739DC00 49] Android_Adreno6xx, [0000025608C4D000][00000256073A0200 49] Android_Adreno6xx_Vulkan, [00000256078C8E00][00000256073A4380 49] Android_Mali_T6xx, [0000025608C4D800][00000256073A8500 49] Android_Mali_T7xx, [00000256078C9300][00000256073AC680 49] Android_Mali_T8xx, [0000025608C4C700][00000256073B0800 49] Android_Mali_G71, [00000256078C9A00][00000256073B4980 49] Android_Mali_G72, [0000025608C4DA00][00000256073B8B00 49] Android_Mali_G72_Vulkan, [00000256078C8F00][00000256073BCC80 49] Android_Mali_G76, [0000025608C4C300][00000256073C0E00 49] Android_Mali_G76_Vulkan, [00000256078C9400][00000256073C4F80 49] Android_Mali_G77, [0000025608C4EA00][00000256073C9100 49] Android_Mali_G77_Vulkan, [00000256078C9E00][0000025604EC5240 49] Android_Mali_G78, [0000025608C4E600][00000256073CD380 49] Android_Mali_G78_Vulkan, [00000256078CA000][00000256073D14C0 49] Android_Mali_G710, [0000025608C4F800][00000256073D9640 49] Android_Mali_G710_Vulkan, [00000256078C8500][00000256073DD7C0 49] Android_Vulkan_SM5, [0000025608C4C400][00000256073E1940 49] Android_PowerVR_G6xxx, [00000256078C9F00][00000256073E5AC0 49] Android_PowerVR_GT7xxx, [0000025608C09000][00000256073E80C0 49] Android_PowerVR_GE8xxx, [00000256078CA100][00000256073EC240 49] Android_PowerVR_GM9xxx, [0000025608C0B500][00000256073F03C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000256078C9900][000002567EB7C540 49] Android_TegraK1, [0000025608C08900][000002567EB806C0 49] Android_Unknown_Vulkan, [00000256078C9D00][000002567EB84840 49] Lumin, [0000025608C09F00][000002567EB889C0 49] Lumin_Desktop, [00000256078CAC00][000002567EB8CB40 49] HoloLens, 
+[2022.02.14-05.48.03:070][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.14-05.48.03:070][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.14-05.48.03:070][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.14-05.48.03:070][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.14-05.48.03:070][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.14-05.48.03:090][  0]LogNetVersion: Backrooms 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 574084664)
+[2022.02.14-05.48.03:548][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.14-05.48.03:635][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.14-05.48.03:644][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.14-05.48.03:644][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.14-05.48.03:644][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.14-05.48.03:884][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 67D8271043A368223B8BDF86E8D4910C | Instance: 9E8AFDCE4572FFCC71139286CD63B0ED (LAPTOP-7OS13TSD-2740).
+[2022.02.14-05.48.04:033][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.14-05.48.04:038][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.14-05.48.04:266][  0]LogPython: Using Python 3.7.7
+[2022.02.14-05.48.04:914][  0]SourceControl: Source control is disabled
+[2022.02.14-05.48.04:914][  0]SourceControl: Source control is disabled
+[2022.02.14-05.48.04:918][  0]SourceControl: Source control is disabled
+[2022.02.14-05.48.04:920][  0]SourceControl: Source control is disabled
+[2022.02.14-05.48.04:928][  0]SourceControl: Source control is disabled
+[2022.02.14-05.48.04:945][  0]LogUProjectInfo: Found projects:
+[2022.02.14-05.48.05:020][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.14-05.48.05:051][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.14-05.48.05:051][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.14-05.48.05:402][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.14-05.48.05:422][  0]LogOcInput: OculusInput pre-init called
+[2022.02.14-05.48.05:653][  0]LogCollectionManager: Loaded 0 collections in 0.003333 seconds
+[2022.02.14-05.48.05:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Collections/' took 0.00s
+[2022.02.14-05.48.05:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Developers/april/Collections/' took 0.00s
+[2022.02.14-05.48.05:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Collections/' took 0.00s
+[2022.02.14-05.48.05:720][  0]LogEngine: Initializing Engine...
+[2022.02.14-05.48.05:723][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.14-05.48.05:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.14-05.48.05:723][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.14-05.48.05:724][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.14-05.48.05:903][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.14-05.48.05:917][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.14-05.48.05:927][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.14-05.48.05:931][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.14-05.48.05:931][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.14-05.48.05:933][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.14-05.48.05:933][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.14-05.48.05:933][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.14-05.48.05:933][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.14-05.48.05:935][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.14-05.48.05:935][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.14-05.48.05:935][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.14-05.48.05:935][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.14-05.48.05:945][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.14-05.48.05:945][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.14-05.48.05:972][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.14-05.48.05:976][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.14-05.48.05:980][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.14-05.48.05:980][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.14-05.48.05:981][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.14-05.48.05:981][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.14-05.48.05:981][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.14-05.48.05:982][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.14-05.48.05:982][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.14-05.48.05:982][  0]LogInit: FAudioDevice initialized.
+[2022.02.14-05.48.05:982][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.14-05.48.05:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.14-05.48.06:081][  0]LogDerivedDataCache: Saved boot cache 0.10s 94MB C:/Users/april/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.14-05.48.06:081][  0]LogInit: Texture streaming: Enabled
+[2022.02.14-05.48.06:101][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.14-05.48.06:107][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.14-05.48.06:107][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.14-05.48.06:109][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.14-05.48.06:144][  0]LogInit: Transaction tracking system initialized
+[2022.02.14-05.48.06:175][  0]BlueprintLog: New page: Editor Load
+[2022.02.14-05.48.06:265][  0]LocalizationService: Localization service is disabled
+[2022.02.14-05.48.06:294][  0]TimingProfiler: Initialize
+[2022.02.14-05.48.06:294][  0]TimingProfiler: OnSessionChanged
+[2022.02.14-05.48.06:294][  0]LoadingProfiler: Initialize
+[2022.02.14-05.48.06:294][  0]LoadingProfiler: OnSessionChanged
+[2022.02.14-05.48.06:294][  0]NetworkingProfiler: Initialize
+[2022.02.14-05.48.06:294][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.14-05.48.06:294][  0]MemoryProfiler: Initialize
+[2022.02.14-05.48.06:294][  0]MemoryProfiler: OnSessionChanged
+[2022.02.14-05.48.06:484][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.14-05.48.06:484][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.14-05.48.06:495][  0]LogFileCache: Scanning file cache for directory 'C:/Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/' took 0.00s
+[2022.02.14-05.48.06:495][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2022.02.14-05.48.06:495][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2022.02.14-05.48.06:496][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2022.02.14-05.48.06:902][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.14-05.48.06:905][  0]SourceControl: Source control is disabled
+[2022.02.14-05.48.06:905][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.750
+[2022.02.14-05.48.06:905][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.14-05.48.06:906][  0]LightingResults: New page: Lighting Build
+[2022.02.14-05.48.06:907][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-05.48.06:907][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-05.48.06:907][  0]MapCheck: New page: Map Check
+[2022.02.14-05.48.06:907][  0]LightingResults: New page: Lighting Build
+[2022.02.14-05.48.06:916][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.14-05.48.06:920][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.02.14-05.48.06:974][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.02.14-05.48.06:991][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.02.14-05.48.06:992][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.02.14-05.48.06:998][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.14-05.48.07:016][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.02.14-05.48.07:016][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.14-05.48.07:017][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2022.02.14-05.48.07:017][  0]LogFileHelpers: Loading map 'Template_Default' took 0.112
+[2022.02.14-05.48.07:021][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.865
+[2022.02.14-05.48.07:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-05.48.07:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-05.48.07:141][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-05.48.07:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-05.48.07:158][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3822 classes and 928 folders.
+[2022.02.14-05.48.07:161][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.14-05.48.07:162][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.14-05.48.07:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.14-05.48.07:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.14-05.48.07:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.14-05.48.07:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.14-05.48.07:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.14-05.48.07:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.14-05.48.07:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:163][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.14-05.48.07:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.14-05.48.07:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.14-05.48.07:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.02.14-05.48.07:164][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.14-05.48.07:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.14-05.48.07:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.14-05.48.07:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.14-05.48.07:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.14-05.48.07:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.14-05.48.07:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.14-05.48.07:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.14-05.48.07:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.14-05.48.07:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.02.14-05.48.07:166][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.14-05.48.07:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.14-05.48.07:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.14-05.48.07:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:167][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.14-05.48.07:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.14-05.48.07:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.14-05.48.07:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.14-05.48.07:167][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.14-05.48.07:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.14-05.48.07:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.14-05.48.07:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.14-05.48.07:168][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.14-05.48.07:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.14-05.48.07:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.14-05.48.07:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.14-05.48.07:168][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.14-05.48.07:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.14-05.48.07:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.14-05.48.07:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.14-05.48.07:169][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.14-05.48.07:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.14-05.48.07:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.14-05.48.07:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.02.14-05.48.07:169][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.14-05.48.07:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.14-05.48.07:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.14-05.48.07:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.14-05.48.07:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.14-05.48.07:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.14-05.48.07:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.14-05.48.07:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.14-05.48.07:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.14-05.48.07:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.14-05.48.07:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.14-05.48.07:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.14-05.48.07:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.14-05.48.07:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.14-05.48.07:171][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.14-05.48.07:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.14-05.48.07:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.14-05.48.07:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.14-05.48.07:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.14-05.48.07:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.14-05.48.07:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.14-05.48.07:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.14-05.48.07:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.14-05.48.07:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.14-05.48.07:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.14-05.48.07:173][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.14-05.48.07:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.14-05.48.07:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.14-05.48.07:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.14-05.48.07:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.14-05.48.07:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.14-05.48.07:201][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.14-05.48.07:245][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.14-05.48.07:246][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.14-05.48.07:247][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.14-05.48.07:322][  0]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:1).
+[2022.02.14-05.48.07:458][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.14-05.48.07:458][  0]LogLoad: (Engine Initialization) Total time: 8.30 seconds
+[2022.02.14-05.48.07:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.14-05.48.07:488][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2022.02.14-05.48.07:488][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Plane': Can't find file.
+[2022.02.14-05.48.07:488][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2022.02.14-05.48.07:524][  0]LogAssetRegistry: Asset discovery search completed in 4.8726 seconds
+[2022.02.14-05.48.07:529][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.14-05.48.07:529][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.14-05.48.08:491][ 53]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.14-05.48.13:176][323]LogStaticMesh: Building static mesh Plane...
+[2022.02.14-05.48.13:194][323]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Room/Plane.Plane
+[2022.02.14-05.48.13:226][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-05.48.13:843][323]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.14-05.48.14:560][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/RB_Mac_Lib.RB_Mac_Lib
+[2022.02.14-05.48.21:325][657]LogSlate: Took 0.005699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.14-05.48.21:409][658]LogSlate: Took 0.009700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.14-05.48.23:230][767]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-05.48.23:230][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-05.48.26:237][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.14-05.48.27:409][ 12]Cmd: DELETE
+[2022.02.14-05.48.27:409][ 12]Cmd: ACTOR DELETE
+[2022.02.14-05.48.27:410][ 12]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.14-05.48.27:432][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.02.14-05.48.27:433][ 12]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.02.14-05.48.38:826][688]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.14-05.48.38:826][688]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMaze.TestMaze
+[2022.02.14-05.48.38:826][688]Cmd: MAP LOAD FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Levels/TestMaze.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.14-05.48.38:826][688]LightingResults: New page: Lighting Build
+[2022.02.14-05.48.38:826][688]LoadErrors: New page: Loading map: TestMaze.umap
+[2022.02.14-05.48.38:827][688]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-05.48.38:827][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-05.48.38:827][688]MapCheck: New page: Map Check
+[2022.02.14-05.48.38:827][688]LightingResults: New page: Lighting Build
+[2022.02.14-05.48.38:843][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.14-05.48.38:846][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.02.14-05.48.38:847][688]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMaze'.
+[2022.02.14-05.48.38:849][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.14-05.48.38:849][688]LogAIModule: Creating AISystem for world TestMaze
+[2022.02.14-05.48.38:870][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.02.14-05.48.38:872][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.14-05.48.38:872][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.02.14-05.48.38:872][688]LogFileHelpers: Loading map 'TestMaze' took 0.046
+[2022.02.14-05.48.40:314][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.14-05.48.49:100][294]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.14-05.48.54:684][627]Cmd: DELETE
+[2022.02.14-05.48.54:684][627]Cmd: ACTOR DELETE
+[2022.02.14-05.48.54:686][627]LogEditorActor: Deleted Actor: BP_RB_Maze_C
+[2022.02.14-05.48.54:686][627]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: HierarchicalInstancedStaticMeshComponent /Game/Levels/TestMaze.TestMaze:PersistentLevel.BP_RB_Maze_2.HierarchicalInstancedStaticMesh)
+[2022.02.14-05.48.54:704][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.02.14-05.48.54:705][627]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.02.14-05.48.54:706][627]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: None)
+[2022.02.14-05.48.58:629][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.02.14-05.49.04:747][862]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.14-05.49.04:826][862]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-05.49.04:826][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-05.49.04:881][862]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BluePrints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-05.49.05:403][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.02.14-05.49.05:448][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.02.14-05.49.05:483][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.02.14-05.49.05:506][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.14-05.49.06:537][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.02.14-05.49.07:707][919]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.14-05.49.07:819][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.02.14-05.49.07:853][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.14-05.49.07:879][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.02.14-05.53.08:697][362]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.14-05.53.10:033][362]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.14-05.53.10:041][362]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.14-05.53.10:053][362]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.14-05.53.11:756][465]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.02.14-05.53.11:760][465]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.14-05.53.15:382][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.14-05.53.19:291][679]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.14-05.53.19:340][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.02.14-05.53.45:760][263]LogContentBrowser: Attempting asset rename: BluePrints -> BluePrints
+[2022.02.14-05.54.04:262][362]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.14-05.54.04:274][362]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.14-05.54.07:393][550]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.02.14-05.54.07:394][550]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.14-05.54.16:811][106]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.14-05.54.16:813][106]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.14-05.54.17:708][106]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.14-05.54.17:713][106]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.14-05.54.17:724][106]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.14-05.54.31:147][912]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RB_Maze
+[2022.02.14-05.54.31:151][912]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.14-05.54.34:530][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-05.54.34:799][115]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2022.02.14-05.54.42:594][581]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-05.54.42:625][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.14-05.54.42:642][581]LogSlate: Took 0.000962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.14-05.54.43:062][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-05.54.43:065][606]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze20B1E69F47A3CBFF6D1C949A0B254352.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-05.54.43:078][606]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-05.54.43:078][606]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-05.55.56:774][ 10]LogSlate: Took 0.006306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.14-05.59.17:692][ 26]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-05.59.17:723][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.14-05.59.18:346][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-05.59.18:353][ 62]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MazeCF6686A340B704D682709680FC16A275.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-05.59.18:366][ 62]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-05.59.18:367][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-05.59.34:657][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-05.59.34:663][ 39]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze99253493407DF3D7DA6DE98CD3A0A3CF.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-05.59.34:676][ 39]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-05.59.34:676][ 39]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-05.59.35:349][ 80]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-05.59.35:377][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.02.14-05.59.35:990][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-05.59.35:996][116]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze3E7E68D3499278304287E78A38C38D00.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-05.59.36:007][116]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-05.59.36:007][116]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.01.22:589][504]LogEditorTransaction: Undo Add Node
+[2022.02.14-06.04.11:109][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.14-06.04.11:116][590]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/TestMaze_Auto18789A66A43D78162F6E97DB5730D5249.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Levels/TestMaze_Auto1.umap'
+[2022.02.14-06.04.11:117][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.030
+[2022.02.14-06.04.11:117][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2022.02.14-06.04.11:117][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RB_Maze] ([2] browsable assets)...
+[2022.02.14-06.04.11:117][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RB_Maze]
+[2022.02.14-06.04.11:126][590]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze_Auto17632945541961DB3809144AD7952C23F.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Blueprints/BP_RB_Maze_Auto1.uasset'
+[2022.02.14-06.04.11:127][590]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.02.14-06.10.10:987][146]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.02.14-06.10.15:183][393]LogEditorTransaction: Undo Break Pin Link
+[2022.02.14-06.11.03:854][308]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-06.11.03:889][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.14-06.11.04:430][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-06.11.04:441][339]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze4C23820442B602E539EBFA876998573C.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-06.11.04:455][339]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-06.11.04:455][339]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.13.34:367][313]LogEditorTransaction: Undo Create Pin Link
+[2022.02.14-06.14.50:107][851]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-06.14.50:140][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.02.14-06.14.51:015][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-06.14.51:027][902]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze4E65C7DD41597BB9D6635684C814796A.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-06.14.51:040][902]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-06.14.51:040][902]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.16.34:533][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.02.14-06.16.34:534][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.025
+[2022.02.14-06.16.34:534][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RB_Maze] ([2] browsable assets)...
+[2022.02.14-06.16.34:534][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RB_Maze]
+[2022.02.14-06.16.34:547][ 98]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze_Auto2C10A118A459512221C5C9E956B1EAAE9.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Blueprints/BP_RB_Maze_Auto2.uasset'
+[2022.02.14-06.16.34:548][ 98]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.02.14-06.20.07:167][822]LogEditorTransaction: Undo Create Pin Link
+[2022.02.14-06.24.44:254][419]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-06.24.44:289][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.14-06.24.44:872][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-06.24.44:892][453]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze7460068E4DE3F0A847651AB116AFFD69.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-06.24.44:905][453]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-06.24.44:905][453]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.26.02:106][ 82]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-06.26.02:140][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.02.14-06.26.02:958][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-06.26.02:975][130]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze8F4F9E24469D709FA425619D7A1AFF26.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-06.26.02:988][130]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-06.26.02:988][130]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.26.19:483][ 99]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.14-06.26.19:488][ 99]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.14-06.26.22:395][ 99]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.14-06.26.22:399][ 99]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.14-06.26.22:410][ 99]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.14-06.26.37:191][985]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_RB_Macro
+[2022.02.14-06.26.37:194][985]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.14-06.26.40:000][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_RB_Macro.BP_RB_Macro
+[2022.02.14-06.26.43:517][345]LogSlate: Window 'BP_RB_Macro' being destroyed
+[2022.02.14-06.34.21:052][717]LogEditorTransaction: Undo Move Node
+[2022.02.14-06.34.28:286][146]LogEditorTransaction: Undo Move Nodes
+[2022.02.14-06.35.00:636][ 84]LogEditorTransaction: Undo Create Pin Link
+[2022.02.14-06.40.17:281][ 54]BlueprintLog: New page: Compile BP_RB_Macro
+[2022.02.14-06.40.17:312][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.14-06.40.17:984][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Macro" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Macro.uasset" SILENT=true
+[2022.02.14-06.40.17:991][ 93]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Macro2CBE162945017909BB7C46A5753F2195.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Macro.uasset'
+[2022.02.14-06.40.18:008][ 93]AssetCheck: New page: Asset Save: BP_RB_Macro
+[2022.02.14-06.40.18:008][ 93]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Macro.BP_RB_Macro
+[2022.02.14-06.40.24:100][459]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-06.40.24:134][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.14-06.40.24:601][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-06.40.24:618][486]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze945FC7264D15F52F47DD8C97FF541622.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-06.40.24:631][486]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-06.40.24:631][486]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.42.25:923][732]LogEditorTransaction: Undo Move Node
+[2022.02.14-06.51.17:640][571]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-06.51.17:687][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.14-06.51.18:131][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-06.51.18:155][596]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze439F5BA64B2D8E6CCF50DB9C5D2BE508.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-06.51.18:169][596]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-06.51.18:169][596]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-06.56.32:832][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.14-06.56.32:834][361]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.030
+[2022.02.14-06.56.32:834][361]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RB_Maze] ([2] browsable assets)...
+[2022.02.14-06.56.32:834][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RB_Maze]
+[2022.02.14-06.56.32:862][361]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze_Auto3874C607E4DE920A41FBD8FA30F7BDB2A.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Blueprints/BP_RB_Maze_Auto3.uasset'
+[2022.02.14-06.56.32:863][361]LogFileHelpers: Auto-saving content packages took 0.029
+[2022.02.14-06.59.46:927][937]LogEditorTransaction: Undo Move Node
+[2022.02.14-07.03.06:681][882]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.14-07.03.17:221][493]LogEditorTransaction: Undo Move Node
+[2022.02.14-07.06.58:253][644]BlueprintLog: New page: Compile BP_RB_Macro
+[2022.02.14-07.06.58:282][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.14-07.06.59:000][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Macro" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Macro.uasset" SILENT=true
+[2022.02.14-07.06.59:007][686]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Macro2BB0F5AB4A118FC8DBBD2DA50791A298.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Macro.uasset'
+[2022.02.14-07.06.59:019][686]AssetCheck: New page: Asset Save: BP_RB_Macro
+[2022.02.14-07.06.59:019][686]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Macro.BP_RB_Macro
+[2022.02.14-07.08.03:882][528]LogContentBrowser: Attempting asset rename: BP_RB_Maze -> CustomMacLib
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:RandomPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib_C' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:RandomPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:ValidPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:ValidPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:NeighbourPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:NeighbourPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:GetNeighbourAndWall.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:GetNeighbourAndWall.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:CellInBounds.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:CellInBounds.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:CreateMaze.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:AddNeighbourPosition.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C:AddNeighbourPosition' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C:CreateMaze' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib_C:CreateMaze' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:899][528]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib_C:AddNeighbourPosition' ref from Metadata '/Game/Blueprints/BP_RB_Maze.PackageMetaData'
+[2022.02.14-07.08.03:920][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomMacLib" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/CustomMacLib.uasset" SILENT=true
+[2022.02.14-07.08.03:952][528]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/CustomMacLibDC9B31994CB301ADFEBE4F8AC22860FF.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/CustomMacLib.uasset'
+[2022.02.14-07.08.04:059][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.02.14-07.08.04:089][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.02.14-07.08.04:106][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.02.14-07.08.04:148][528]AssetCheck: New page: Asset Save: CustomMacLib
+[2022.02.14-07.08.04:148][528]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CustomMacLib.CustomMacLib
+[2022.02.14-07.08.45:051][975]LogContentBrowser: Attempting asset rename: CustomMacLib -> BP_RP_Maze
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze_C' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze_C:CreateMaze' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze_C:AddNeighbourPosition' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C:ReceiveTick' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C:CreateMaze' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.SKEL_BP_RP_Maze_C:AddNeighbourPosition' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:RandomPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:RandomPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:NeighbourPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:NeighbourPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:GetNeighbourAndWall.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:GetNeighbourAndWall.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:CellInBounds.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:CellInBounds.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:ValidPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:ValidPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:CreateMaze.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:065][975]LogMetaData: Removing '/Game/Blueprints/BP_RP_Maze.BP_RP_Maze:AddNeighbourPosition.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/CustomMacLib.PackageMetaData'
+[2022.02.14-07.08.45:080][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RP_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RP_Maze.uasset" SILENT=true
+[2022.02.14-07.08.45:113][975]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RP_Maze829EE1464EED457CB8A7239AD0562C47.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RP_Maze.uasset'
+[2022.02.14-07.08.45:175][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.02.14-07.08.45:203][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.02.14-07.08.45:222][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.14-07.08.45:249][975]AssetCheck: New page: Asset Save: BP_RP_Maze
+[2022.02.14-07.08.45:249][975]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RP_Maze.BP_RP_Maze
+[2022.02.14-07.08.52:742][422]LogContentBrowser: Attempting asset rename: BP_RP_Maze -> BP_RB_Maze
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze_C' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze_C:CreateMaze' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze_C:AddNeighbourPosition' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C:CreateMaze' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.SKEL_BP_RB_Maze_C:AddNeighbourPosition' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:RandomPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:RandomPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:NeighbourPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:NeighbourPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:GetNeighbourAndWall.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:GetNeighbourAndWall.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:CellInBounds.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:CellInBounds.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:ValidPosition.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:ValidPosition.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:CreateMaze.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:759][422]LogMetaData: Removing '/Game/Blueprints/BP_RB_Maze.BP_RB_Maze:AddNeighbourPosition.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_RP_Maze.PackageMetaData'
+[2022.02.14-07.08.52:774][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-07.08.52:805][422]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MazeD84DD0F84C574569E48498B7535DCBAE.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-07.08.52:869][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.14-07.08.52:895][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.02.14-07.08.52:913][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.14-07.08.52:942][422]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-07.08.52:942][422]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-07.09.02:639][  1]LogContentBrowser: Attempting asset rename: BP_RB_Macro -> CustomMacLib
+[2022.02.14-07.09.02:653][  1]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.SKEL_CustomMacLib_C' ref from Metadata '/Game/Blueprints/BP_RB_Macro.PackageMetaData'
+[2022.02.14-07.09.02:653][  1]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib_C' ref from Metadata '/Game/Blueprints/BP_RB_Macro.PackageMetaData'
+[2022.02.14-07.09.02:653][  1]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:RepeatN.K2Node_Tunnel_0' ref from Metadata '/Game/Blueprints/BP_RB_Macro.PackageMetaData'
+[2022.02.14-07.09.02:653][  1]LogMetaData: Removing '/Game/Blueprints/CustomMacLib.CustomMacLib:RepeatN.K2Node_Tunnel_1' ref from Metadata '/Game/Blueprints/BP_RB_Macro.PackageMetaData'
+[2022.02.14-07.09.02:669][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomMacLib" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/CustomMacLib.uasset" SILENT=true
+[2022.02.14-07.09.02:676][  1]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/CustomMacLib544A8D0B4A4D0A0016943FBD8AAAAF5C.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/CustomMacLib.uasset'
+[2022.02.14-07.09.02:743][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.02.14-07.09.02:770][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.02.14-07.09.02:789][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.02.14-07.09.02:813][  1]AssetCheck: New page: Asset Save: CustomMacLib
+[2022.02.14-07.09.02:814][  1]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CustomMacLib.CustomMacLib
+[2022.02.14-07.17.14:079][413]BlueprintLog: New page: Compile CustomMacLib
+[2022.02.14-07.17.14:106][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.14-07.17.14:680][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomMacLib" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/CustomMacLib.uasset" SILENT=true
+[2022.02.14-07.17.14:688][445]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/CustomMacLib5233CF1743C8F7236BA918AB14C64BEF.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/CustomMacLib.uasset'
+[2022.02.14-07.17.14:705][445]AssetCheck: New page: Asset Save: CustomMacLib
+[2022.02.14-07.17.14:705][445]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CustomMacLib.CustomMacLib
+[2022.02.14-07.18.31:361][966]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.14-07.18.31:366][966]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.02.14-07.18.34:085][966]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.14-07.18.34:091][966]LogContentBrowser: Deferred new asset file creation: NewMacroLibrary
+[2022.02.14-07.18.34:104][966]LogContentBrowser: Creating deferred item: NewMacroLibrary
+[2022.02.14-07.18.46:246][693]LogContentBrowser: Attempting asset rename: NewMacroLibrary -> BP_RB_MacroLib
+[2022.02.14-07.18.46:249][693]LogContentBrowser: End creating deferred item NewMacroLibrary
+[2022.02.14-07.19.04:837][806]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_RB_MacroLib.BP_RB_MacroLib
+[2022.02.14-07.19.18:692][627]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.14-07.20.04:708][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.14-07.20.04:712][335]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.036
+[2022.02.14-07.20.04:713][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RB_Maze] ([2] browsable assets)...
+[2022.02.14-07.20.04:713][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RB_Maze]
+[2022.02.14-07.20.04:747][335]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze_Auto4BAB0255B4EE1B627435606809B335CF3.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Blueprints/BP_RB_Maze_Auto4.uasset'
+[2022.02.14-07.20.04:748][335]LogFileHelpers: Auto-saving content packages took 0.036
+[2022.02.14-07.30.51:667][482]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MacroLib0E483FC34A97115D82446995F9C61D8D.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_MacroLib.uasset'
+[2022.02.14-07.30.51:684][482]AssetCheck: New page: Asset Save: BP_RB_MacroLib
+[2022.02.14-07.30.51:684][482]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_MacroLib.BP_RB_MacroLib
+[2022.02.14-07.31.08:206][469]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-07.31.08:207][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-07.31.10:603][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.14-07.31.13:744][603]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.14-07.31.13:782][603]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/CustomMacLib.CustomMacLib
+[2022.02.14-07.31.14:124][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.02.14-07.31.14:145][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.02.14-07.31.14:164][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.14-07.31.51:632][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.14-07.31.51:635][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.026
+[2022.02.14-07.31.51:635][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RB_Maze] ([2] browsable assets)...
+[2022.02.14-07.31.51:635][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RB_Maze]
+[2022.02.14-07.31.51:669][816]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze_Auto5E8ECE75A47A9FDEDFA86D2B93964A70B.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Blueprints/BP_RB_Maze_Auto5.uasset'
+[2022.02.14-07.31.51:670][816]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.02.14-07.33.50:826][207]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MacroLibDCCCB1CE467CB4A7F6F38FB087E8DE76.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_MacroLib.uasset'
+[2022.02.14-07.33.50:840][207]AssetCheck: New page: Asset Save: BP_RB_MacroLib
+[2022.02.14-07.33.50:840][207]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_MacroLib.BP_RB_MacroLib
+[2022.02.14-07.38.29:509][814]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-07.38.29:558][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.02.14-07.38.30:444][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-07.38.30:483][864]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze09EBCB0C44D9D3741CB05A817CC44798.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-07.38.30:498][864]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-07.38.30:498][864]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-07.38.43:025][590]LogEditorTransaction: Undo Add Node
+[2022.02.14-07.38.46:368][782]LogEditorTransaction: Undo Move Node
+[2022.02.14-07.39.10:394][190]LogEditorTransaction: Undo Move Nodes
+[2022.02.14-07.40.49:635][133]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-07.40.49:680][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.02.14-07.40.50:320][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-07.40.50:356][169]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze91A4AC12453F3DC12D4AD786766732DC.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-07.40.50:371][169]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-07.40.50:372][169]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-07.47.07:895][545]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-07.47.07:951][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.02.14-07.47.08:597][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-07.47.08:639][582]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze91548E1C484FA476EF06A9A9B9B319A2.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-07.47.08:654][582]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-07.47.08:656][582]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-07.52.38:260][925]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-07.52.38:309][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.14-07.52.39:092][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-07.52.39:135][969]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze98720DEB4F657FBB3B8200BC75210713.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-07.52.39:151][969]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-07.52.39:151][969]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-07.54.21:197][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.02.14-07.54.21:198][ 13]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.023
+[2022.02.14-07.54.21:198][ 13]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_RB_Maze] ([4] browsable assets)...
+[2022.02.14-07.54.21:198][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_RB_Maze]
+[2022.02.14-07.54.21:245][ 13]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze_Auto690FB0431409597B89FF38A851408B57D.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Blueprints/BP_RB_Maze_Auto6.uasset'
+[2022.02.14-07.54.21:246][ 13]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.02.14-08.11.23:569][585]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.11.23:635][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.02.14-08.11.24:169][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.11.24:224][615]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze530DB1D64B90362492BE42941DA23BB6.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.11.24:240][615]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.11.24:240][615]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.14.37:972][156]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.14.38:031][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.14-08.14.38:543][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.14.38:600][184]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze409AE1104F04055ACD71E1B5F9318D36.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.14.38:618][184]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.14.38:618][184]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.14.54:318][126]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.14.54:370][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.14-08.14.54:923][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.14.54:977][157]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze3D5ACE27478C2659702D7DAD887AE98C.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.14.54:992][157]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.14.54:992][157]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.15.29:218][206]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Room/Plane.Plane
+[2022.02.14-08.15.29:316][206]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.14-08.15.29:450][206]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.14-08.15.30:372][207]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2022.02.14-08.15.49:143][325]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.14-08.15.50:377][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.14-08.15.50:940][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.02.14-08.15.50:954][419]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/TestMaze1F16A54D4F0E6C8BBFD721832A5C30BD.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Levels/TestMaze.umap'
+[2022.02.14-08.15.50:988][419]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/TestMaze_BuiltData75F9132C4B1919920C674B92E4C59D87.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Levels/TestMaze_BuiltData.uasset'
+[2022.02.14-08.15.51:007][419]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.14-08.15.51:007][419]LogContentValidation: Display: Validating World /Game/Levels/TestMaze.TestMaze
+[2022.02.14-08.15.51:007][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMaze_BuiltData.TestMaze_BuiltData
+[2022.02.14-08.18.55:675][393]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.18.55:832][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.02.14-08.18.56:633][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.18.56:696][437]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze242005DA446FC6452DDB488722F274A2.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.18.56:715][437]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.18.56:715][437]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.23.05:034][ 91]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.23.05:136][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.02.14-08.23.05:782][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.23.05:845][125]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze86182AB1426BE3E543BACC98543E09E2.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.23.05:862][125]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.23.05:862][125]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.24.06:977][578]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.02.14-08.24.11:487][823]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.02.14-08.24.11:496][823]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.02.14-08.25.37:723][982]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.25.37:797][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.02.14-08.25.38:369][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.25.38:430][ 10]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze999439034C9BA697CB68B1849A9F5266.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.25.38:446][ 10]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.25.38:446][ 10]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.26.14:198][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.02.14-08.26.17:894][138]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.14-08.26.29:478][806]Cmd: ACTOR UNHIDE ALL
+[2022.02.14-08.26.34:736][116]Cmd: DELETE
+[2022.02.14-08.26.34:737][116]Cmd: ACTOR DELETE
+[2022.02.14-08.26.34:741][116]LogEditorActor: Deleted Actor: BP_RB_Maze_C
+[2022.02.14-08.26.34:770][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.02.14-08.26.34:773][116]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.02.14-08.27.20:883][870]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.27.20:946][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.02.14-08.27.21:822][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.27.21:884][918]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MazeC71A9DDA4014C3A3894306B9B2628DDF.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.27.21:900][918]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.27.21:900][918]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.27.40:267][  5]LogEditorViewport: Clicking on Actor (LMB): BP_RB_Maze_C (BP_RB_Maze)
+[2022.02.14-08.28.06:045][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.28.06:107][543]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze065F7BEB4FBCA34ABB7F779C7B9065B0.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.28.06:125][543]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.28.06:125][543]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.28.12:218][903]Cmd: DELETE
+[2022.02.14-08.28.12:219][903]Cmd: ACTOR DELETE
+[2022.02.14-08.28.12:220][903]LogEditorActor: Deleted Actor: BP_RB_Maze_C
+[2022.02.14-08.28.12:253][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.02.14-08.28.12:262][903]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.02.14-08.28.27:658][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.14-08.28.29:843][950]Cmd: DELETE
+[2022.02.14-08.28.29:844][950]Cmd: ACTOR DELETE
+[2022.02.14-08.28.29:848][950]LogEditorActor: Deleted Actor: BP_RB_Maze_C
+[2022.02.14-08.28.29:876][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.14-08.28.29:882][950]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.02.14-08.28.47:669][ 12]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.28.47:732][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.02.14-08.28.48:324][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.28.48:386][ 43]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze7350B8E342D2401CA810AC8D610E284B.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.28.48:403][ 43]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.28.48:403][ 43]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.29.31:056][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.02.14-08.29.31:070][573]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/TestMaze_Auto7F73E604A40F5F1B6CE72BBB882F74365.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/Autosaves/Game/Levels/TestMaze_Auto7.umap'
+[2022.02.14-08.29.31:071][573]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMaze' took 0.045
+[2022.02.14-08.29.31:071][573]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.02.14-08.29.41:534][198]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.29.41:608][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.02.14-08.29.42:163][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.29.42:224][227]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze18594BE34AA521A6C3AAF3980A4D443C.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.29.42:241][227]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.29.42:241][227]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.29.48:672][607]Cmd: DELETE
+[2022.02.14-08.29.48:672][607]Cmd: ACTOR DELETE
+[2022.02.14-08.29.48:674][607]LogEditorActor: Deleted Actor: BP_RB_Maze_C
+[2022.02.14-08.29.48:701][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.02.14-08.29.48:704][607]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.02.14-08.29.55:193][992]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.29.55:267][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.14-08.29.55:696][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.29.55:757][ 13]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze376F926840A230C223DBDEBAB6F56077.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.29.55:779][ 13]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.29.55:779][ 13]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.30.01:926][378]Cmd: DELETE
+[2022.02.14-08.30.01:926][378]Cmd: ACTOR DELETE
+[2022.02.14-08.30.01:930][378]LogEditorActor: Deleted Actor: BP_RB_Maze_C
+[2022.02.14-08.30.01:956][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.02.14-08.30.01:960][378]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.02.14-08.30.21:109][518]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.30.21:172][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.14-08.30.21:652][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.30.21:716][542]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MazeF1FB9E0D461823BA4558388DFC75ED3F.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.30.21:733][542]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.30.21:733][542]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.31.12:387][557]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.31.12:467][557]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.02.14-08.31.12:836][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.31.12:898][574]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MazeD8E37062456EA2BC2B1700B89E771372.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.31.12:913][574]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.31.12:914][574]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.32.49:632][358]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.32.49:710][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.14-08.32.50:364][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.32.50:424][390]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_MazeE7F90E19448D1614BC3F0CA84FB6C3A2.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.32.50:444][390]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.32.50:444][390]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.33.07:555][399]BlueprintLog: New page: Compile BP_RB_Maze
+[2022.02.14-08.33.07:664][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.02.14-08.33.08:263][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_RB_Maze" FILE="../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset" SILENT=true
+[2022.02.14-08.33.08:325][425]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/BP_RB_Maze1AC6089D48F44101473CD6B14107AAFA.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Blueprints/BP_RB_Maze.uasset'
+[2022.02.14-08.33.08:341][425]AssetCheck: New page: Asset Save: BP_RB_Maze
+[2022.02.14-08.33.08:341][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_RB_Maze.BP_RB_Maze
+[2022.02.14-08.33.21:399][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.14-08.33.21:410][194]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/TestMazeF6FC23194353BAA724B1BF9C03B075C8.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Levels/TestMaze.umap'
+[2022.02.14-08.33.21:423][194]LogSavePackage: Moving '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Saved/TestMaze_BuiltData135A59FF4779BC0C9AA612A898045BEA.tmp' to '../../../../../../Users/april/OneDrive/Documents/Unreal Projects/Backrooms/Backrooms/Content/Levels/TestMaze_BuiltData.uasset'
+[2022.02.14-08.33.21:440][194]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.14-08.33.21:440][194]LogContentValidation: Display: Validating World /Game/Levels/TestMaze.TestMaze
+[2022.02.14-08.33.21:440][194]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/TestMaze_BuiltData.TestMaze_BuiltData
+[2022.02.14-08.33.29:666][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.14-08.33.29:765][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.14-08.33.29:795][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.02.14-08.33.29:820][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
